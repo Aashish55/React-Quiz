@@ -1,0 +1,40 @@
+.QuizPart{
+    height: 40vh;
+    padding: 1rem 3rem;
+    border: 2px solid green;
+    width: 50rem;
+    border-radius: 1rem;
+
+}
+h3{
+    color: gray;
+    font-size: 1.5rem;
+    font-weight: 400;
+    background-color: ivory;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 6px rgba(128, 128, 128, 0.2);
+    
+}
+
+.nextButton{
+    background-color: mediumseagreen;
+    color: white;
+    font-size: 1.2rem;
+    width: 7rem;
+    padding: .5rem;
+    border-radius: 5px;
+}
+button{
+    color: gray;
+    font-size: 1rem;
+    font-weight: 300;
+    width: 46%;
+    margin: .8rem;
+    background-color: ivory;
+    padding: 1rem;
+    border-radius: 1rem;
+    box-shadow: 3px 3px 6px rgba(128, 128, 128, 0.2);
+    border: none;
+    outline: none;
+}
