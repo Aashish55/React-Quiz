@@ -1,9 +1,10 @@
 .QuizPart{
-    height: 40vh;
+    height: 36vh;
     padding: 1rem 3rem;
     border: 2px solid green;
     width: 50rem;
     border-radius: 1rem;
+    margin-bottom: 2rem;
 
 }
 h3{
